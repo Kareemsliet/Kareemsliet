@@ -1,8 +1,3 @@
-<div align="center" width="400px">
-  <img width="100%" src="bg.jpg"  />
-</div>
-
-
 <h2 align="left">Hi❤! My name is kareem mohamed and I'm a Back End developer from Egypt</h2>
 <h2 align="left">Thank you for visiting my profile❤!Go to the repo to see the projects from here https://github.com/Kareemsliet?tab=repositories . For more,contact me.</h2>
 
