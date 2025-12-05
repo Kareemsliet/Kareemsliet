@@ -4,8 +4,8 @@
 
 ### Backend Developer | Laravel Expert | Egypt 🇪🇬
 
-[![GitHub followers](https://img.shields.io/github/followers/Kareemsliet?style=flat-square)](https://github.com/Kareemsliet)
-[![GitHub stars](https://img.shields.io/github/stars/Kareemsliet?style=flat-square)](https://github.com/Kareemsliet)
+[![GitHub followers](https://img.shields. io/github/followers/Kareemsliet?style=flat-square)](https://github.com/Kareemsliet)
+[![GitHub stars](https://img.shields.io/github/stars/Kareemsliet? style=flat-square)](https://github.com/Kareemsliet)
 
 </div>
 
@@ -15,11 +15,11 @@
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
+![MySQL](https://img.shields. io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A? style=for-the-badge&logo=react&logoColor=61DAFB)
+![Livewire](https://img. shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Pest PHP](https://img.shields.io/badge/Pest_PHP-FF2D20?style=for-the-badge&logo=php&logoColor=white)
+![Pest PHP](https://img.shields. io/badge/Pest_PHP-FF2D20?style=for-the-badge&logo=php&logoColor=white)
 
 ---
 
@@ -27,8 +27,11 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kareemsliet&show_icons=true&theme=radical&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kareemsliet&layout=compact&theme=radical&hide_border=true"/>
+![Kareem's GitHub stats](https://github-readme-stats.vercel.app/api? username=Kareemsliet&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kareemsliet&layout=compact&theme=radical&hide_border=true&langs_count=6)
+
+![GitHub Streak](https://streak-stats.demolab.com? user=Kareemsliet&theme=radical&hide_border=true)
 
 </div>
 
@@ -42,7 +45,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kareemsliet&color=red&style=flat-square)
+![Profile Views](https://komarev. com/ghpvc/?username=Kareemsliet&color=red&style=flat-square)
 
 **⭐ Thanks for visiting!**
 
