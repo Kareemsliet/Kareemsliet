@@ -13,40 +13,41 @@
 
 ## 🚀 Tech Stack
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields. io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A? style=for-the-badge&logo=react&logoColor=61DAFB)
-![Livewire](https://img. shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Pest PHP](https://img.shields. io/badge/Pest_PHP-FF2D20?style=for-the-badge&logo=php&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-![Kareem's GitHub stats](https://github-readme-stats.vercel.app/api? username=Kareemsliet&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kareemsliet&layout=compact&theme=radical&hide_border=true&langs_count=6)
-
-![GitHub Streak](https://streak-stats.demolab.com? user=Kareemsliet&theme=radical&hide_border=true)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4? style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Pest PHP](https://img.shields.io/badge/Pest_PHP-FF2D20?style=for-the-badge&logo=php&logoColor=white)
 
 </div>
 
 ---
 
+## 💼 About Me
+
+- 🔧 Backend Developer specializing in **Laravel** & **PHP**
+- 🌱 Building scalable web applications
+- 🧪 Testing with **Pest PHP**
+- ⚡ **Livewire** for dynamic interfaces
+- 💾 Database expert: **MySQL** & **SQL**
+- ⚛️ Frontend skills: **React** & **JavaScript**
+
+---
+
 ## 📫 Contact
 
-💼 Open for opportunities | 🤝 Available for collaboration
+**💼 Open for opportunities | 🤝 Available for collaboration**
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev. com/ghpvc/?username=Kareemsliet&color=red&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Kareemsliet&color=red&style=flat-square)
 
-**⭐ Thanks for visiting!**
+### ⭐ Thanks for visiting!
 
 </div>
