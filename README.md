@@ -9,8 +9,8 @@
   </p>
 
   <p>
-    <a href="https://www.google.com.eg/search?q=K-sliet"> <!-- Google Me -->
-      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=3010A0" style="height:30px; object-fit:contain;"/></a>
+    <a href="https://www.google.com.eg/search?q=k-sliet"> <!-- Google Me -->
+      <img src="https://komarev.com/ghpvc/?username=k-sliet&style=flat&color=3010A0" style="height:30px; object-fit:contain;"/></a>
   </p>
 
   ### 📤 Connect & Competitive Programming
@@ -26,11 +26,8 @@
 ### 🛠️ Top Technical Skills & Tools
 
   <p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,docker,sqlserver,dapper,redis,html,css,js,postman,swagger,git&perline=7" style="height:113px;"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=php,cs,laravel,docker,sqlserver,redis,html,css,js,postman,git&perline=7" style="height:113px;"/>
   </p>
-
-### 🏆 GitHub Trophies
-  <p align="left">
   
 <br>
 
