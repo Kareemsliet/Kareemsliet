@@ -1,4 +1,4 @@
- <h1 align="center">Hi, I'm Ahmed Hemeda</h1>
+ <h1 align="center">Hi, I'm Kareem Sliet</h1>
 
 <h2 align="center">Software Engineer | Laravel Developer | Full Stack</h2>
 <br>
@@ -19,7 +19,7 @@
       <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="50"/></a> &nbsp;
     <a href="https://www.linkedin.com/in/kareemsliet">
       <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/></a> &nbsp;
-    <a href="https://www.whatsapp.com/channel/0029Vb3QWNLG8l5OPthU963O">
+    <a href="https://wa.me/201066201102">
       <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="50"/></a> &nbsp;
   </p>
 
@@ -36,7 +36,5 @@
 
   <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kareemsliet&layout=compact&langs_count=6&theme=highcontrast" height="125"/> &nbsp;
-    <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="125"/>
+    <img src="https://streak-stats.demolab.com/?user=kareemsliet&theme=highcontrast" height="125"/>
   </p>
-
-![Snake Animation](https://github.com/A-Hemeda/A-Hemeda/blob/output/snake-dark.svg)
