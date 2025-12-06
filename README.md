@@ -1,53 +1,42 @@
-<div align="center">
+ <h1 align="center">Hi, I'm Ahmed Hemeda</h1>
 
-# Hi, I'm Kareem Mohamed 👋
+<h2 align="center">Software Engineer | Laravel Developer | Full Stack</h2>
+<br>
 
-### Backend Developer | Laravel Expert | Egypt 🇪🇬
+  <p align="center">
+    <a href="https://www.google.com.eg/search?q=kareem+sliet"> <!-- Google Me -->
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=View%20my%20Social%20Media%20Accounts;Check%20my%20Popular%20repositories&font=Bold%20Code&center=true&color=30F050&pause=2000"></a>
+  </p>
 
-[![GitHub followers](https://img.shields. io/github/followers/Kareemsliet?style=flat-square)](https://github.com/Kareemsliet)
-[![GitHub stars](https://img.shields.io/github/stars/Kareemsliet? style=flat-square)](https://github.com/Kareemsliet)
+  <p>
+    <a href="https://www.google.com.eg/search?q=K-sliet"> <!-- Google Me -->
+      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=3010A0" style="height:30px; object-fit:contain;"/></a>
+  </p>
 
-</div>
+  ### 📤 Connect & Competitive Programming
+  <p align="left">
+    <a href="mailto:kareemoii37@gmail.com">
+      <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="50"/></a> &nbsp;
+    <a href="https://www.linkedin.com/in/kareemsliet">
+      <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/></a> &nbsp;
+    <a href="https://www.whatsapp.com/channel/0029Vb3QWNLG8l5OPthU963O">
+      <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="50"/></a> &nbsp;
+  </p>
 
----
+### 🛠️ Top Technical Skills & Tools
 
-## 🚀 Tech Stack
+  <p align="left">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,docker,sqlserver,dapper,redis,html,css,js,postman,swagger,git&perline=7" style="height:113px;"/>
+  </p>
 
-<div align="center">
+### 🏆 GitHub Trophies
+  <p align="left">
+  
+<br>
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4? style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Pest PHP](https://img.shields.io/badge/Pest_PHP-FF2D20?style=for-the-badge&logo=php&logoColor=white)
+  <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kareemsliet&layout=compact&langs_count=6&theme=highcontrast" height="125"/> &nbsp;
+    <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="125"/>
+  </p>
 
-</div>
-
----
-
-## 💼 About Me
-
-- 🔧 Backend Developer specializing in **Laravel** & **PHP**
-- 🌱 Building scalable web applications
-- 🧪 Testing with **Pest PHP**
-- ⚡ **Livewire** for dynamic interfaces
-- 💾 Database expert: **MySQL** & **SQL**
-- ⚛️ Frontend skills: **React** & **JavaScript**
-
----
-
-## 📫 Contact
-
-**💼 Open for opportunities | 🤝 Available for collaboration**
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Kareemsliet&color=red&style=flat-square)
-
-### ⭐ Thanks for visiting!
-
-</div>
+![Snake Animation](https://github.com/A-Hemeda/A-Hemeda/blob/output/snake-dark.svg)
