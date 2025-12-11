@@ -1,6 +1,6 @@
  <h1 align="center">Hi, I'm Kareem Sliet</h1>
 
-<h2 align="center">Software Engineer | Laravel Developer | Full Stack</h2>
+<h2 align="center">Software Engineer | PHP Developer | Laravel Developer | Full Stack</h2>
 <br>
 
   <p align="center">
@@ -26,12 +26,6 @@
 ### 🛠️ Top Technical Skills & Tools
 
   <p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=php,cs,laravel,docker,sqlserver,redis,html,css,js,postman,git&perline=7" style="height:113px;"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=php,laravel,react,java,docker,sqlserver,redis,html,css,js,postman,git,mysql&perline=7" style="height:113px;"/>
   </p>
   
-<br>
-
-  <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kareemsliet&layout=compact&langs_count=6&theme=highcontrast" height="125"/> &nbsp;
-    <img src="https://streak-stats.demolab.com/?user=kareemsliet&theme=highcontrast" height="125"/>
-  </p>
