@@ -3,16 +3,6 @@
 <h2 align="center">Software Engineer | PHP Developer | Laravel Developer | Full Stack</h2>
 <br>
 
-  <p align="center">
-    <a href="https://www.google.com.eg/search?q=kareem+sliet"> <!-- Google Me -->
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=View%20my%20Social%20Media%20Accounts;Check%20my%20Popular%20repositories&font=Bold%20Code&center=true&color=30F050&pause=2000"></a>
-  </p>
-
-  <p>
-    <a href="https://www.google.com.eg/search?q=k-sliet"> <!-- Google Me -->
-      <img src="https://komarev.com/ghpvc/?username=k-sliet&style=flat&color=3010A0" style="height:30px; object-fit:contain;"/></a>
-  </p>
-
   ### 📤 Connect & Competitive Programming
   <p align="left">
     <a href="mailto:kareemoii37@gmail.com">
@@ -26,6 +16,6 @@
 ### 🛠️ Top Technical Skills & Tools
 
   <p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=php,laravel,react,java,docker,sqlserver,redis,html,css,js,postman,git,mysql&perline=7" style="height:113px;"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=php,laravel,react,java,docker,sqlserver,redis,html,css,js,postman,git,mysql,c++&perline=7" style="height:113px;"/>
   </p>
   
