@@ -16,6 +16,6 @@
 ### 🛠️ Top Technical Skills & Tools
 
   <p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=php,laravel,react,java,docker,sqlserver,redis,html,css,js,postman,git,mysql,c++&perline=7" style="height:113px;"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=php,laravel,react,java,docker,sqlserver,redis,html,css,js,postman,git,mysql,c++,ibm&perline=7" style="height:113px;"/>
   </p>
   
