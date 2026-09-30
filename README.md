@@ -1,45 +1,15 @@
-<div align="center">
 
-  <!-- Animated Greeting Wave -->
-  <h1>
-    Hey there, I'm <b>Kareem Mohamed</b> 
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/media/handwave.gif" width="32px" alt="wave" />
-  </h1>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kareemsliet/ar) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Kareem Mohamed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kareemoii37@gmail.com) 
 
-  <!-- Dynamic Typing Title -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Backend+Developer;Java+%7C+Spring+Boot+Architect;PHP+%7C+Laravel+Artisan;Passionate+about+Clean+Code+%26+Scala" alt="Typing SVG" />
-  </a>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=kareemsliet&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=kareemsliet&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=kareemsliet&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-  <br/><br/>
-  
-  <p>
-    Backend engineer focused on building robust, scalable APIs and high-performance web systems.<br/>
-    Driven by clean architecture, efficient database design, and modern backend solutions.
-  </p>
+---
+[![](https://komarev.com/ghpvc/?username=kareemsliet&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  <br/>
-
-  <!-- Tech Stack with Hover Animations -->
-  <h3>🛠️ Tech & Tools</h3>
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,scala,mysql,postgres,redis,docker,git,postman,linux&perline=6" alt="Tech Stack" />
-  </a>
-
-  <br/><br/>
-
-  <!-- Minimal Animated Contribution Snake -->
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="80%" alt="Contribution Snake" />
-
-  <br/><br/>
-
-  <!-- Social Badges -->
-  <a href="https://linkedin.com/in/kareemsliet" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto: kareemoii37@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
